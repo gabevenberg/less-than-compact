@@ -1,0 +1,13 @@
+name = "Proxy"
+filename = "proxy-0.9.1.4-mc1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63b1db73dd91772bcaa2504ccfbf867b344e151c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2475601
+project-id = 275548

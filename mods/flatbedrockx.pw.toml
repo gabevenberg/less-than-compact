@@ -1,0 +1,13 @@
+name = "FlatBedrock Xplosion's Edition"
+filename = "FlatBedrock-1.4.0_1.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9b6205eafeb4cd93f99e39c35df69039bd191b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2440978
+project-id = 78886

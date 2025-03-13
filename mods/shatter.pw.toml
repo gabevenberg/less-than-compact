@@ -1,0 +1,13 @@
+name = "Shatter"
+filename = "Shatter-1.12.2-7.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b549937d3c3598ff5f530f8dcad5d9f98af9798a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2509043
+project-id = 229087

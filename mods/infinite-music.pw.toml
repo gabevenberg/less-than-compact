@@ -1,0 +1,13 @@
+name = "Infinite Music"
+filename = "infinitemusic-1.12.2-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "194ae467f60777bb5dab685aee33dd86473f32d6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2549453
+project-id = 291713

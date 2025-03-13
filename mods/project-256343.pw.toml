@@ -1,0 +1,13 @@
+name = "project-256343"
+filename = "supersoundmuffler-1.12.2-1.0.2.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1d64e42a38514690d206b4065355ba6501bbc15c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2668858
+project-id = 256343

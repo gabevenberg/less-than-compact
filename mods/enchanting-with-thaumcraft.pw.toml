@@ -1,0 +1,13 @@
+name = "Enchanting With Thaumcraft"
+filename = "enchantingwiththaumcraft-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba6d422d9da35a20640ce96ae05660d7a6a21e9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3928584
+project-id = 324709

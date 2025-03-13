@@ -1,0 +1,13 @@
+name = "CleanView"
+filename = "CleanView-1.12.2-v1c.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "82bfa3c868d31b299ee6672a22fe32fd3a3d051a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2726661
+project-id = 226889
