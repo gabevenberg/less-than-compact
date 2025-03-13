@@ -111,11 +111,6 @@ hash = "45b89fead492935701ce8092eb3920bce39d824629bd87458eae218aba41d258"
 metafile = true
 
 [[files]]
-file = "mods/back-tools.pw.toml"
-hash = "c90c363c11ef9425833b52177cfea95a3492e59c456a12c82b045271f2ad5afd"
-metafile = true
-
-[[files]]
 file = "mods/baubles.pw.toml"
 hash = "2cc5f913400c0dfe460173edd1e5d9475a09774caf228f41c3e39eba252a7a19"
 metafile = true
@@ -188,11 +183,6 @@ metafile = true
 [[files]]
 file = "mods/chicken-chunks-1-8.pw.toml"
 hash = "8c1cd98cbd76ccba330c24575c02edd0ede38a08330a843f9874efee8a1738dd"
-metafile = true
-
-[[files]]
-file = "mods/chisel.pw.toml"
-hash = "5a5219bd45d091fa505a4c98e9282fa721f5228af3a91fe56939c6f347abc285"
 metafile = true
 
 [[files]]
@@ -298,11 +288,6 @@ metafile = true
 [[files]]
 file = "mods/foamfix-optimization-mod.pw.toml"
 hash = "9ebf99a09414c38e4959b828266d83d3983366e1694d0bb901125a85121e97de"
-metafile = true
-
-[[files]]
-file = "mods/googlyeyes.pw.toml"
-hash = "460ca9767f727f97c3b53a14247e772fdfa167215d498137b645d9acc21e14cd"
 metafile = true
 
 [[files]]
