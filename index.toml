@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "adde6cc9eeeac12f95fccfc4c40b993f8cd30c7837af4ae43f1303dcbb7917c8"
+hash = "45d91c416875ed594543e20ac97241356d9af6c7357f46cd012afe3efd7b08bb"
 metafile = true
 
 [[files]]
@@ -612,12 +612,12 @@ metafile = true
 
 [[files]]
 file = "mods/thaumic-augmentation.pw.toml"
-hash = "a6910676b9f3710d653abb1ce46c2a3c53c7a6fc18cd5d54d5098c7b854308e5"
+hash = "7f3efb3e6ba215116c810f7239847a941961db13b6d0582eebc8e9f360c344ee"
 metafile = true
 
 [[files]]
 file = "mods/thaumic-jei.pw.toml"
-hash = "611e582d20e8de4cd23cf8aa8126b0d5fb47fbd0136ddcaeb5a00428bb62d05b"
+hash = "3dcef794ba03565241c47808178e96d5d8db82d4a9659d2a340fd3966ac107a1"
 metafile = true
 
 [[files]]

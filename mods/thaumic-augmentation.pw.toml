@@ -1,13 +1,13 @@
 name = "Thaumic Augmentation"
-filename = "ThaumicAugmentation-1.12.2-2.1.9.jar"
+filename = "ThaumicAugmentation-1.12.2-2.1.14.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6e2b15c8b8242c80baaea08d31d9c766a0676e8c"
+hash = "376843864b9b7c117d4aa98c24c227a76b2d4fde"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4081306
+file-id = 6047659
 project-id = 319441
