@@ -664,6 +664,11 @@ hash = "43d41187b5758e6a85d7daa32840347bff58e6303ef559e07561512255e4da37"
 metafile = true
 
 [[files]]
+file = "mods/the-disenchanter-mod.pw.toml"
+hash = "38ce562a2f2adf0cf0965f2f627b1f06aac5635fa2fbab8a6511dcd343769047"
+metafile = true
+
+[[files]]
 file = "mods/tic-tooltips.pw.toml"
 hash = "54dc4ec439b8204a9b997910f62f805a05e0754e7671bc0e3059b562a61c75c0"
 metafile = true
